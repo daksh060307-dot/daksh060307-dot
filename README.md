@@ -1,47 +1,44 @@
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="13%">
+        <img src="./assets/boy_waving.gif" width="90" />
+      </td>
+      <td align="center" width="90%">
+        <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<img src="assets/header-banner.gif" width="100%" alt="header banner"/>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=learning...;building...;exploring...;learning+%E2%86%92+building+%E2%86%92+exploring)
 
-<br/>
-
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,100:0f3460&height=140&section=header&text=DAKSH%20KHANDELWAL&fontSize=42&fontColor=00e5ff&fontAlignY=55&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20@%20IIT%20Jodhpur&descAlignY=78&descColor=8fd6ff&fontFamily=monospace)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=learning...;building...;exploring...;learning+%E2%86%92+building+%E2%86%92+exploring)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daksh-khandelwal-b02748391/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dk-khandelwal06">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:dk.khandelwaliitj@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
+  </a>
+  <a href="https://portfolio-website-sepia-one-78.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/status-year__2-0a0e17?style=for-the-badge&labelColor=000000&color=00e5ff&logoColor=white" alt="status"/>
-<img src="https://img.shields.io/badge/institute-IIT_Jodhpur-0a0e17?style=for-the-badge&labelColor=000000&color=00e5ff" alt="institute"/>
-<img src="https://img.shields.io/badge/focus-AI_%2F_Data_Science-0a0e17?style=for-the-badge&labelColor=000000&color=00e5ff" alt="focus"/>
-</div>
-
-<br/>
-
-```text
-[BOOTING PROFILE...]
-[LOADING IDENTITY...]      OK
-[LOADING YEAR_1...]        OK
-[LOADING PROJECTS...]      OK
-[ENTERING YEAR_2...]       IN_PROGRESS
-[READY]
-```
-
-<br/>
-
-## ```$ whoami```
+## `🧑‍💻whoami`
 
 ```python
 profile = {
-    "name": "Daksh Khandelwal",
-    "education": "B.S. Applied AI & Data Science @ IIT Jodhpur",
-    "year": 2,
-    "status": "learning + building",
-    "mode": ["experiment", "build", "understand", "improve"]
+    "🧐name": "Daksh Khandelwal",
+    "🧪education": "B.S. Applied AI & Data Science @ IIT Jodhpur",
+    "🌱year": 2nd,
+    "🎯goal": Become a Data Scientist,
+    "🧩interests": AI, Data Science, Web Development, Python, Open Source, Hackathons
 }
 
 def philosophy():
@@ -50,196 +47,119 @@ def philosophy():
 print(philosophy())
 ```
 
-```
->>> Turning what I learn into things I can actually build.
-```
-
-<br/>
-
----
-
-## ```$ cat ./journey```
+## `🧭journey`
 
 <div align="center">
 
-```text
-2025 ────────────────────────────────────────
-      Started B.S. in Applied AI & Data Science
-      @ IIT Jodhpur
-        │
-        ▼
-YEAR 1 ───────────────────────────────────────
-      Built foundational knowledge through
-      coursework and hands-on projects
-        │
-        ▼
-FOUNDATIONS ───────────────────────────────────
-      Programming · Statistics · Data Analytics
-      Visualization · Mathematics · AI
-      Pattern Recognition · Optimization
-        │
-        ▼
-PROJECTS ──────────────────────────────────────
-      Started turning academic learning into
-      practical, working projects
-        │
-        ▼
-2026 ────────────────────────────────────────
-      Entered Year 2
-        │
-        ▼
-NOW ───────────────────────────────────────────
-      Continuing to learn, build, experiment
-      and explore research + problem-solving
-```
+**🎓 2025 → 🌱 Year 1 → 🧱 Foundations → 🛠️ Projects → 🚀 2026 → 🔥 Year 2 (Current)**
 
 </div>
 
-<br/>
 
----
-
-## ```$ ls ./year_1_foundations```
+## `🧱year_1_foundations`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="center" width="50%" style="border-right: 1px solid #444;">
 
-**```module: semester_1```**
-
-```text
-[✓] Algorithmic Thinking & Its Applications
-[✓] Basics of Data Analytics
-[✓] Foundations of Statistics & Probability
-[✓] Linear Algebra & Numerical Analysis
-```
+**Semester 1**
+- 🧮 Algorithmic Thinking
+- 📊 Data Analytics
+- 📈 Statistics & Probability
+- ➗ Linear Algebra & Numerical Analysis
 
 </td>
 <td valign="top" width="50%">
 
-**```module: semester_2```**
-
-```text
-[✓] Foundations of AI
-[✓] Numerical Optimization
-[✓] Pattern Recognition Principles
-[✓] Visualization & Storytelling with Data
-```
+**Semester 2**
+- 🤖 Foundations of AI
+- ⚙️ Numerical Optimization
+- 🧠 Pattern Recognition
+- 🎨 Visualization & Storytelling
 
 </td>
 </tr>
 </table>
 
-<br/>
+## 🛠️ `$ tech_stack`
 
----
+<table>
+<tr>
 
-## ```$ cat ./tech_stack```
+<!-- LEFT : CODING GIF -->
+<td width="28%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260"/>
+
+</td>
+
+<!-- RIGHT : TECH STACK -->
+<td width="68%" valign="middle">
 
 <div align="center">
 
-**Programming / Development**
+### 👨‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00e5ff)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00e5ff)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00e5ff)
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00e5ff)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Python / Data**
+### 📊 Data & AI
 
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00e5ff)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00e5ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00e5ff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Data / Analytics / Visualization**
+### 📈 Analytics & Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00e5ff)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-000000?style=for-the-badge&logo=googlesheets&logoColor=00e5ff)
-![LibreOffice Calc](https://img.shields.io/badge/LibreOffice_Calc-000000?style=for-the-badge&logo=libreofficecalc&logoColor=00e5ff)
-![Flourish](https://img.shields.io/badge/Flourish-000000?style=for-the-badge&logoColor=00e5ff)
-![Orange](https://img.shields.io/badge/Orange-000000?style=for-the-badge&logoColor=00e5ff)
-![KNIME](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=knime&logoColor=00e5ff)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-000000?style=for-the-badge&logo=mysql&logoColor=00e5ff)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-EF7C00?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00e5ff)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00e5ff)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff)
-![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00e5ff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-**AI-Assisted Development** — tools I use for learning, productivity & building, not programming skills
+### 🤖 AI Assistant Development
 
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=00e5ff)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=00e5ff)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=00e5ff)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=00e5ff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-## ```$ ls ./featured_projects```
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🌊 INBMG — Narmada Basin Monitoring
-
-**AI-driven framework for Narmada River Basin monitoring** · IIT Jodhpur student research project
-
-Current implementation: a **2025 Sentinel-2 remote-sensing river-health analysis** built on Google Earth Engine.
-
-**Implemented indicators**
-```text
-NDTI · NDWI · MNDWI · AWEI · FAI · NDVI · BSI · TSM
-```
-
-> **Note:** the broader vision (crowd safety, eDNA, governance) is **future work**, not part of the current implementation.
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-000000?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/dk-khandelwal06/INBMG-Narmada-Basin-Monitoring)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🎙️ Jarvis — AI Voice Assistant
-
-A **Python-based personal voice assistant** inspired by JARVIS, Alexa, and Google Assistant.
-
-**Capabilities**
-```text
-[✓] Wake-word activation
-[✓] Website automation
-[✓] Music playback
-[✓] News headlines
-[✓] Optional OpenAI-powered responses
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-000000?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/dk-khandelwal06/Jarvis-AI-Voice-Assistant)
 
 </td>
 </tr>
 </table>
 
+## `$ featured_projects`
+
+> **🌊 INBMG — Narmada Basin Monitoring**
+> AI-driven Narmada River Basin monitoring framework with a 2025 Sentinel-2 river-health analysis using Google Earth Engine.
+> `NDTI · NDWI · MNDWI · AWEI · FAI · NDVI · BSI · TSM`
+> *(crowd safety, eDNA & governance are future work — not implemented)*
+> **[→ Repository](https://github.com/dk-khandelwal06/INBMG-Narmada-Basin-Monitoring)**
+
+> **🎙️ Jarvis — AI Voice Assistant**
+> Python voice assistant with wake-word activation, website automation, music playback, news headlines and optional OpenAI-powered responses.
+> **[→ Repository](https://github.com/dk-khandelwal06/Jarvis-AI-Voice-Assistant)**
+
 <br/>
 
----
-
-## ```$ ls ./iitj_academic_projects```
+## ```📚iitj_academic_projects```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📈 Understanding Financial Market Dynamics**
+<img src="https://img.shields.io/badge/📈%20FINANCIAL%20MARKET%20DYNAMICS-2563EB?style=for-the-badge&labelColor=1E3A8A" />
 
 *Linear Algebra & Numerical Analysis — IIT Jodhpur*
 
@@ -253,103 +173,65 @@ Capstone project analyzing financial market stability and shock propagation usin
 </td>
 <td width="50%" valign="top">
 
-**🛒 The Quick Commerce Conundrum**
+<img src="https://img.shields.io/badge/🛒%20QUICK%20COMMERCE%20CONUNDRUM-F97316?style=for-the-badge&labelColor=9A3412" />
 
 *Foundations of Statistics & Probability — IIT Jodhpur*
 
 Statistical case study analyzing the dynamics of India's quick commerce industry through data exploration, hypothesis testing, and visualization.
 
 [![Repo](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/dk-khandelwal06/The-Quick-Commerce-Conundrum-Report)
+[![Report](https://img.shields.io/badge/Report-000000?style=flat-square&logo=googledrive&logoColor=00e5ff)](https://drive.google.com/file/d/1jwbVc0GSNu1gbnrY5kkmBoqXxUHjKfvj/view?usp=sharing)
+[![Slides](https://img.shields.io/badge/Slides-000000?style=flat-square&logo=googleslides&logoColor=00e5ff)](https://docs.google.com/presentation/d/1jYBhWmcHjQY0IFyfoUTYGUPvff-W0mAI/edit?usp=sharing&ouid=103272819978757820613&rtpof=true&sd=true)
 
 </td>
 </tr>
 </table>
 
-<br/>
+## `$ 2027_goals`
 
----
-
-## ```$ cat ./build.log```
-
-```text
-[✓] B.S. Applied AI & Data Science student, IIT Jodhpur
-[✓] Completed Year 1
-[→] Entering Year 2
-[✓] Built personal projects
-[✓] Completed IIT Jodhpur academic projects
-[✓] Developed the INBMG research project
-[✓] Built the Jarvis AI Voice Assistant
-[→] Continuing to build a practical project portfolio
-```
+- 🐍 Strengthen Python & Data Science foundations
+- 🛠️ Build more meaningful projects
+- 🧠 Explore deeper AI/ML concepts
+- 🔬 Explore research opportunities
+- 📐 Improve technical depth and consistency
 
 <br/>
 
----
-
-## ```$ cat ./year_2_focus```
-
-```text
-> strengthen Python
-> deepen AI & Data Science foundations
-> build better projects
-> improve technical depth
-> explore research
-> experiment more
-> keep building
-```
-
-<br/>
-
----
-
-## ```$ ./github_stats```
+## `$ github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&show_icons=true&theme=dark&bg_color=0a0e17&title_color=00e5ff&icon_color=00e5ff&text_color=8fd6ff&border_color=00e5ff&hide_border=false" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-khandelwal06&theme=dark&background=0a0e17&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=8fd6ff&dates=8fd6ff&border=00e5ff" width="48%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-khandelwal06&theme=radical&hide_border=true" width="48%" alt="GitHub streak"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&label=PROFILE%20VIEWS&color=00e5ff&style=flat&labelColor=0a0e17" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 <br/>
 
----
-
-## ```$ cat ./connect```
+## `$ connect`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/dk-khandelwal06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://portfolio-website-sepia-one-78.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00e5ff)](https://www.instagram.com/dk_khandelwal.06/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00e5ff)](https://x.com/dk_khandelwal6)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00e5ff)](https://www.facebook.com/profile.php?id=61583478904711)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:dk.khandelwaliitj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dk-khandelwal06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-sepia-one-78.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dk_khandelwal.06/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dk_khandelwal6)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61583478904711)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk.khandelwaliitj@gmail.com)
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-<img src="assets/thanks.png" width="55%" alt="thanks"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:0a0e17&height=150&section=footer)
+**Thank you for visiting my profile — see you in the next build.**
 
-<img src="assets/thanks-wave.gif" width="40%" alt="thanks wave"/>
-
-```text
-[SESSION ACTIVE]
-[THANK YOU FOR VISITING MY PROFILE]
-[SEE YOU IN THE NEXT BUILD...]
-[SHUTTING DOWN...] ░░░░░░░░░░░░░░░░░░░░ 100%
-```
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
